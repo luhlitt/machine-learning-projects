@@ -13,8 +13,8 @@ For the second objective, I compared linear and support vector regression to ana
 
 For the third objective, I compared linear regression and decision trees to forcast end prices of online auction items. Dataset can be found here https://www.kaggle.com/onlineauctions/online-auctions-dataset.
 
-Results.
-The various machine learning algorithms have shown that they can provide useful information to businesses and experts alike.
-K-means outperformed Hierarchical clustering in segmenting customers.
-SVR is more robust than linear regression in predicting diamond prices.
-Regression tree outperformed linear regression in predicting end-price of auction items.
+Results:
+1. The various machine learning algorithms have shown that they can provide useful information to businesses and experts alike.
+2. K-means outperformed Hierarchical clustering in segmenting customers.
+3. SVR is more robust than linear regression in predicting diamond prices.
+4. Regression tree outperformed linear regression in predicting end-price of auction items.
