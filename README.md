@@ -1,5 +1,5 @@
 # machine learning projects
-A comparartive study of machine learning models for customer segmentation and price prediction in the retail industry.
+A comparative study of machine learning models for customer segmentation and price prediction in the retail industry.
 
 My objectives are:
 1. To what extent can clustering algorithms determine customer groups.
