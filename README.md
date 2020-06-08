@@ -12,3 +12,9 @@ Access to the dataset can be found here http://archive.ics.uci.edu/ml/datasets/O
 For the second objective, I compared linear and support vector regression to analyse diamond by their prices, cut and other attributes. Dataset can be found here https://www.kaggle.com/shivam2503/diamonds.
 
 For the third objective, I compared linear regression and decision trees to forcast end prices of online auction items. Dataset can be found here https://www.kaggle.com/onlineauctions/online-auctions-dataset.
+
+Results.
+The various machine learning algorithms have shown that they can provide useful information to businesses and experts alike.
+K-means outperformed Hierarchical clustering in segmenting customers.
+SVR is more robust than linear regression in predicting diamond prices.
+Regression tree outperformed linear regression in predicting end-price of auction items.
