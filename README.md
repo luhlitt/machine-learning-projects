@@ -1,4 +1,4 @@
-# machine learning projects
+# Machine learning projects
 A comparative study of machine learning models for customer segmentation and price prediction in the retail industry.
 
 My objectives are:
